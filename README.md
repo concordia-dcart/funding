@@ -31,3 +31,19 @@ Here is a list to funding sources of different type for UG and Graduate students
   - Eligibility: All graduate students registered at Concordia University are eligible to apply for the funding.
   - Each student is limited to a maximum of $500.00 reimbursement per academic year (includes Fall, Winter and Summer Semesters).
   - The GSA must receive your completed application form and all required documentation no later than 30 calendar days after the last day of the conference.
+
+- [Faculty of Arts and Science Conference Travel Award](https://forms.office.com/Pages/ResponsePage.aspx?id=hfFpVS_SE06YUM5bGrzS6PKaNVsfj-tPvPHbi4wvLlBUODdQWjVJR1E5UVFCUzhCVEdKNU1PSUlJQy4u&wdLOR=c9E18E940-FD08-4C47-8D13-F9574667D8B1)
+  - Eligibility:
+    - Be enrolled as a thesis-based master's or doctoral student at the time of the conference.
+    - Must be presenting a paper or poster.
+  - Funding Contribution Requirements:
+    - School of Graduate Studies (SGS) must be financially supporting the Conference travel for the same conference.
+    - Departments are normally expected to commit a minimum contribution of $100 for domestic conferences and $150 for international conferences.
+    - Supervisors listed as co-authors of the paper are normally expected to commit a minimum contribution of $100 for domestic conferences and $150 for international conferences.
+  - Destination Award Values:
+    - Canada- 500km radius from Montreal ( e.g. Ottawa, Quebec city, Toronto): Maximum Award Value: $200, Includes registration fees for Montreal-based conferences where registration fees are $800 or more.
+    - Canada- all other destinations: Maximum Award Value: $300
+    - United States, Mexico, Caribbean: Maximum Award Value: $350
+    - All other international destinations: Maximum Award Value: $400
+
+
