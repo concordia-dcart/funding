@@ -25,3 +25,18 @@ Here is a list to funding sources of different type for UG and Graduate students
     - March 15th, 4pm: For travel between May 15th and September 14th.
     - June 15th, 4pm: For travel between September 15th and January 14th.
     - December 1st, 4pm: For travel between January 15th and May 14th.
+
+- [Faculty of Arts and Science Conference Travel Award](https://forms.office.com/Pages/ResponsePage.aspx?id=hfFpVS_SE06YUM5bGrzS6PKaNVsfj-tPvPHbi4wvLlBUODdQWjVJR1E5UVFCUzhCVEdKNU1PSUlJQy4u&wdLOR=c9E18E940-FD08-4C47-8D13-F9574667D8B1)
+  - Eligibility:
+    - Be enrolled as a thesis-based master's or doctoral student at the time of the conference.
+    - Must be presenting a paper or poster.
+  - Funding Contribution Requirements:
+    - School of Graduate Studies (SGS) must be financially supporting the Conference travel for the same conference.
+    - Departments are normally expected to commit a minimum contribution of $100 for domestic conferences and $150 for international conferences.
+    - Supervisors listed as co-authors of the paper are normally expected to commit a minimum contribution of $100 for domestic conferences and $150 for international conferences.
+  - Destination Award Values:
+    - Canada- 500km radius from Montreal ( e.g. Ottawa, Quebec city, Toronto): Maximum Award Value: $200, Includes registration fees for Montreal-based conferences where registration fees are $800 or more.
+    - Canada- all other destinations: Maximum Award Value: $300
+    - United States, Mexico, Caribbean: Maximum Award Value: $350
+    - All other international destinations: Maximum Award Value: $400
+  - Funding Availability: The number of awards available will vary from year to year depending on the available budget. The annual budget will be split across three terms, normally with more budget allocated to the Spring term. Funding priority will be given to first time applicants.  Applications will be accepted each term until funds are depleted.
