@@ -25,3 +25,9 @@ Here is a list to funding sources of different type for UG and Graduate students
     - March 15th, 4pm: For travel between May 15th and September 14th.
     - June 15th, 4pm: For travel between September 15th and January 14th.
     - December 1st, 4pm: For travel between January 15th and May 14th.
+
+- [GSA Funding for Graduate Students Conference Funding](https://gsaconcordia.ca/services/gsa-funding/#1621358345956-5c149b8b-8135)
+  - Financial assistance for presenting a paper or leading a workshop at a conference.
+  - Eligibility: All graduate students registered at Concordia University are eligible to apply for the funding.
+  - Each student is limited to a maximum of $500.00 reimbursement per academic year (includes Fall, Winter and Summer Semesters).
+  - The GSA must receive your completed application form and all required documentation no later than 30 calendar days after the last day of the conference.
