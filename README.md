@@ -46,4 +46,10 @@ Here is a list to funding sources of different type for UG and Graduate students
     - United States, Mexico, Caribbean: Maximum Award Value: $350
     - All other international destinations: Maximum Award Value: $400
 
+## Further Resources
 
+- [Concordia Graduate and Postdoctoral Awards Advising](https://www.concordia.ca/gradstudies/funding/contact.html)
+  
+  - Advisors (contact through booking portal):
+    - Cecilia Kramar (Advisor, Fellowship Application Development): Contact Cecilia if you need support in writing a successful funding application to showcase  your strengths and improve your proposal.
+    - Katherine Belloso (Advisor, External Graduate Awards): Contact Katherine about eligibility for and post-award administration of Tri-agency (CIHR, NSERC, SSHRC) master’s and doctoral awards, Fonds de recherche du Québec (FRQNT, FRQS, FRQSC) master’s and doctoral awards, PBEEE, and other external graduate awards.
